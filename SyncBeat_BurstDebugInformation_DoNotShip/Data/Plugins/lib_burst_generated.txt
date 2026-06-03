@@ -10,6 +10,7 @@ Library: D:\PotentialDynamics\sync-beat\SyncBeat\Temp\BurstOutput\Data\Plugins\l
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.7f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Library\Burst
@@ -127,6 +128,7 @@ Library: D:\PotentialDynamics\sync-beat\SyncBeat\Temp\BurstOutput\Data\Plugins\l
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.7f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Library\Burst
@@ -163,6 +165,7 @@ Library: D:\PotentialDynamics\sync-beat\SyncBeat\Temp\BurstOutput\Data\Plugins\l
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.7f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\PotentialDynamics\sync-beat\SyncBeat\Library\Burst
